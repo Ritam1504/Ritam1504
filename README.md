@@ -1,19 +1,47 @@
 # Hi, I’m Ritam Halder 👋
 
-**MSc Bioinformatics Student | Genomics & Transcriptomics | Computational Biology & Drug Design**
+**MSc Bioinformatics | Genomics & Transcriptomics | Computational Biology & Drug Design**
 
-I’m passionate about using **NGS, transcriptomics, docking, and computational biology** to explore complex biological systems. Currently pursuing my MSc Bioinformatics at CUSB, I specialize in **RNA-Seq, molecular docking, and multi-omics data integration**.
+I’m passionate about applying computational biology and drug design tools to solve real-world challenges in genomics, transcriptomics, and systems biology. I build workflows and pipelines that make bioinformatics analyses reproducible and accessible.
 
 ---
 
 ## 🔹 About Me
 
 - 🎓 MSc Bioinformatics student at **Central University of South Bihar (2024–2026)**  
-- 🎓 BSc (H) Biomedical Sciences, **University of Delhi (2021–2024)**  
-- 🧬 Skilled in **RNA-Seq, Exome Sequencing, Variant Calling, Transcriptomics, lncRNA/miRNA prediction**  
-- 🧪 Experience with **Molecular Docking, MD Simulation, Network Biology, Systems Biology**  
+- 🎓 BSc (H) Biomedical Science, **University of Delhi (2021–2024)**  
+- 🧬 Experienced in **RNA-Seq, Exome Sequencing, Variant Calling, Transcriptomics, lncRNA/miRNA Prediction**  
+- 🧪 Worked on **Molecular Docking, MD Simulation, Network Biology, Systems Biology**  
 - ☁️ **AWS Cloud Practitioner Certified**  
 - 📍 Based in Asansol, West Bengal, India  
+
+---
+
+## 🔹 Skills & Expertise
+
+### Programming
+- **Python** 🟩🟩🟩🟩🟩 100%  
+- **R** 🟩🟩🟩🟩⬜ 85%  
+- **Bash/Shell** 🟩🟩🟩🟩⬜ 85%  
+- **Git/GitHub** 🟩🟩🟩🟩🟩 100%  
+
+### Bioinformatics
+- **RNA-Seq Analysis** 🟩🟩🟩🟩🟩 100%  
+- **Exome Sequencing & Alignment** 🟩🟩🟩🟩⬜ 85%  
+- **Variant Calling (SAMtools, BWA, GATK)** 🟩🟩🟩🟩⬜ 80%  
+- **QC & Data Visualization** 🟩🟩🟩🟩🟩 100%  
+- **lncRNA/miRNA Prediction** 🟩🟩🟩🟩⬜ 80%  
+
+### Chemoinformatics & Drug Design
+- **Molecular Docking (AutoDock, Maestro)** 🟩🟩🟩🟩⬜ 80%  
+- **Molecular Dynamics Simulation** 🟩🟩🟩🟩⬜ 75%  
+- **Multi-epitope Vaccine Design** 🟩🟩🟩🟩🟩 90%  
+- **Molecule Screening** 🟩🟩🟩🟩⬜ 80%  
+
+### Data Analysis & Visualization
+- **Pandas / NumPy** 🟩🟩🟩🟩🟩 100%  
+- **Matplotlib / Seaborn** 🟩🟩🟩🟩⬜ 85%  
+- **R (DESeq2, edgeR, ggplot2)** 🟩🟩🟩🟩⬜ 85%  
 
 ---
 
@@ -28,32 +56,6 @@ I’m passionate about using **NGS, transcriptomics, docking, and computational 
 
 - **Differential Expression Mapping in Longevity Pathways (2025)**  
   RNA-Seq analysis of **mTOR, mitochondrial complex I, ROS regulation** pathways to uncover therapeutic targets.  
-
----
-
-## 🔹 Skills
-
-**Programming & OS:**  
-- Python 🟩🟩🟩🟩🟩 100%  
-- R 🟩🟩🟩🟩⬜ 85%  
-- Linux (Bash) 🟩🟩🟩🟩⬜ 85%  
-
-**Bioinformatics Tools:**  
-- DESeq2, edgeR, STAR, HISAT2, GATK, FastQC, BLAST, Cytoscape  
-- RNA-Seq, Spatial Transcriptomics, lncRNA & miRNA prediction  
-
-**Molecular Modeling & Docking:**  
-- PyMOL, AutoDock, Chimera, Maestro  
-
-**Data Analysis:**  
-- PCA, Hypothesis Testing, Pandas, NumPy, Matplotlib, Seaborn  
-
-**Cloud Computing & Version Control:**  
-- AWS Cloud Practitioner Certified  
-- GitHub for collaboration & project management  
-
-**Wet Lab:**  
-- SDS PAGE, Western Blot, ELISA, Protein quantification, Enzyme kinetics  
 
 ---
 
@@ -79,12 +81,12 @@ I’m passionate about using **NGS, transcriptomics, docking, and computational 
 
 ---
 
-## 🔹 GitHub Stats
+## 🔹 GitHub Stats & Visuals
 
 ![Ritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritam1504&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritam1504&hide=html,css&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritam1504&theme=radical)  
-![Visitors](https://komarev.com/ghpvc/?username=Ritam1504&style=for-the-badge&color=blue)  
+![Visitors](https://komarev.com/ghpvc/?username=Ritam1504&style=for-the-badge&color=blue)
 
 ---
 
@@ -98,4 +100,4 @@ I’m passionate about using **NGS, transcriptomics, docking, and computational 
 
 ## 🔹 Fun Fact
 
-> I blend **bioinformatics and computational drug design** with systems biology to find solutions in precision medicine 🚀
+> I enjoy combining **computational biology with practical drug design** and exploring new bioinformatics tools to automate research workflows. 🚀
