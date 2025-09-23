@@ -1,3 +1,7 @@
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Ritam%20Halder%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
 # Hi, I’m Ritam Halder 👋
 
 **MSc Bioinformatics | Genomics & Transcriptomics | Computational Biology & Drug Design**
